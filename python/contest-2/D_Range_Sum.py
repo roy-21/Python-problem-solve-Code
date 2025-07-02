@@ -1,3 +1,6 @@
+contest-link:- https://codeforces.com/group/MWSDmqGsZm/contest/326907
+
+
 T = int(input())
 
 for _ in range(T):
