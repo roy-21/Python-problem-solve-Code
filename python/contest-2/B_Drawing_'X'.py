@@ -1,3 +1,5 @@
+contest-link:- https://codeforces.com/group/MWSDmqGsZm/contest/326907
+
 n = int(input())
 
 # Loop through each row
