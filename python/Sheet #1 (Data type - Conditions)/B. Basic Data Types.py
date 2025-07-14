@@ -1,0 +1,1 @@
+X,Y=int(map(input().split()))
